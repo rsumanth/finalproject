@@ -17,3 +17,4 @@ Project Description : When people have leisure time, travel might be regarded as
 Primary Azure Technology :  Azure Bot Service, Web, Static Web Apps
 
 Other Azure Technologies : App Service
+#this is my link:https://red-water-0797b5010.2.azurestaticapps.net/
